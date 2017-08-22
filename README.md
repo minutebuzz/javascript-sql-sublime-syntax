@@ -41,3 +41,7 @@ So now the default syntax_map object is:
 2. `Ctrl+Shift+P` and type `SetSyntax: javascript-sql` or `ssjssql`
 
 Sublime Text memorize this choice and will open all js files with js-sql syntax by default.
+
+
+## License
+MIT License. Copyright 2017 Asterisque Digital
